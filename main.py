@@ -22,7 +22,6 @@ def calculator(a: float, b: float, operation: str = "+") -> str:
     Returns:
     - str: Result of the calculation
     """
-    print("Calculator tool is called")
     
     try:
         if operation == "+":
